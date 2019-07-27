@@ -1,0 +1,15 @@
+{
+  "name": "backend-general-setup",
+  "version": "1.0.0",
+  "description": "This is a general setup for backend projects",
+  "main": "index.js",
+  "author": "Renzo Navarro",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
